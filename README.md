@@ -1,2 +1,4 @@
 #DSA WITH PYTHON PROGRAMMING
-  - Linked-List
+
+- Linked-List
+- Doubly-Linked-List
