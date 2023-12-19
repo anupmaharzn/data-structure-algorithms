@@ -253,18 +253,18 @@ class DoublyLinkedList:
 # my_doubly_linked_list.print_list()
 
 
-#--------------------------------------------------------------------
+# #--------------------------------------------------------------------
     
-print ('-------remove node by index------')
+# print ('-------remove node by index------')
 
-my_doubly_linked_list = DoublyLinkedList(0)
-my_doubly_linked_list.append(1)
-my_doubly_linked_list.append(2)
+# my_doubly_linked_list = DoublyLinkedList(0)
+# my_doubly_linked_list.append(1)
+# my_doubly_linked_list.append(2)
 
-my_doubly_linked_list.print_list()
+# my_doubly_linked_list.print_list()
 
-print('-after removing node by index 1--')
+# print('-after removing node by index 1--')
 
-my_doubly_linked_list.remove(1)
+# my_doubly_linked_list.remove(1)
 
-my_doubly_linked_list.print_list()
+# my_doubly_linked_list.print_list()
