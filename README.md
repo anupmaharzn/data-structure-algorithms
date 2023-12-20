@@ -1,6 +1,12 @@
-#DSA WITH PYTHON PROGRAMMING
+# DSA WITH PYTHON PROGRAMMING
 
-- Linked-List
-- Doubly-Linked-List
-- Stack
-- Queue
+    # linear data structure
+
+        - Linked-List
+        - Doubly-Linked-List
+        - Stack
+        - Queue
+
+    # Non linear data structure
+        - Tree
+            - Binary Search Tree (BST)
