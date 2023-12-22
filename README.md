@@ -10,3 +10,6 @@
     # Non linear data structure
         - Tree
             - Binary Search Tree (BST)
+
+
+    # Hash Tables
