@@ -16,3 +16,9 @@
     # Hash Tables
     # Search Algorithm
     # recursion
+    # Sorting Alogrithm
+        - Bubble Sort
+        - Selection Sort
+        - Insertion Sort
+        - Merge Sort
+        - Quick Sort
