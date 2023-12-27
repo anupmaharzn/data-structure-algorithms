@@ -11,6 +11,12 @@
         - Tree
             - Binary Search Tree (BST)
             - Recursive Binary Search Tree
+            - Tree Traversal
+                - Breadth First
+                - Depth First
+                    - InOrder
+                    - PreOrder
+                    - PostOrder
         - Graph
 
     # Hash Tables
